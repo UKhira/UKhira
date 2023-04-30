@@ -33,6 +33,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/udith-kavishka-447417241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Udith%20Kavishka-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:udithmanohara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-udithmanohara@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.facebook.com/tri.gon.562"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Udith%20Kavishka-blue?style=flat-square&logo=facebook"></a>
+<a href="https://wa.link/7ddp4c"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-Udith%20Kavishka-blue?style=flat-square&logo=whatsapp">
 </p>
+
 
 ⭐️ ... [UKhira](https://github.com/UKhira)
