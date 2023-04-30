@@ -28,7 +28,7 @@
 <br/>
 
 
-<h3>  &nbsp;Connect with Me </h3>
+<h3>📞&nbsp;Connect with Me</h3>
 
 <p align="center">
   <ul>
@@ -40,5 +40,8 @@
   </ul>
 </p>
 
+<h3>💼&nbsp;More About Me</h3>
+<a href="https://udithportfolio.netlify.app/" target="_blank"> Click Here</a> to view My Portfolio
+<br><br><br><br>
 
-⭐️ ... [UKhira](https://github.com/UKhira)
+⭐️ ... &copy;[UKhira](https://github.com/UKhira)
