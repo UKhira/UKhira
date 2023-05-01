@@ -27,6 +27,7 @@
 
 <br/>
 
+<img src ="https://github-readme-stats.vercel.app/api?username=UKhira&count_private=true&include_all_commits=true%22"> 
 
 <h3>📞&nbsp;Connect with Me</h3>
 
