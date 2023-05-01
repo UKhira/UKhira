@@ -27,7 +27,12 @@
 
 <br/>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=UKhira&count_private=true&include_all_commits=true%22"> 
+<table>
+<tr>
+<td><img src ="https://github-readme-stats.vercel.app/api?username=UKhira&count_private=true&include_all_commits=true%22"></td>
+<td><img src ="http://github-readme-streak-stats.herokuapp.com/?user=UKhira&hide_border=true&background=ffffff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D%22"></td>
+</tr>
+</table>
 
 <h3>📞&nbsp;Connect with Me</h3>
 
