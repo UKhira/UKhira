@@ -46,6 +46,12 @@
   </ul>
 </p>
 
+<h3>🎧&nbsp;Entertainment</h3> 
+<ul>
+<li><a href="https://www.deviantart.com/udithkavii"><img alt="Deviantart" src="https://img.shields.io/badge/DeviantArt-Udithkavii-blue?style=flat-square&logo=deviantart"></a></li>
+<li><a href="https://myanimelist.net/profile/UKhira"><img alt="MyAnimeList" src="https://img.shields.io/badge/MyAnimeList-UKhira-blue?style=flat-square&logo=myanimelist"></a></li>
+</ul>
+
 <h3>💼&nbsp;More About Me</h3>
 <a href="https://udithportfolio.netlify.app/" target="_blank"> Click Here</a> to view My Portfolio
 <br><br><br><br>
